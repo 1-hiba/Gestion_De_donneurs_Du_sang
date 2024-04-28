@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  fieldset {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  legend {
+    font-weight: bold;
+  }
+  
+  label {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 5px;
+  }
+  .QDS{
+    color: rgb(28, 10, 91);
+  }
+  .s1{
+    border-radius: 5px;
+    background-color: rgb(34, 8, 96);
+    color: white;
+    padding: 6px;
+  }
+   
